@@ -141,7 +141,7 @@
 	<ol>Aplikasi Pemesanan Geprek Alhamdulillah adalah aplikasi yang digunakan untuk memesan menu melalui mobile yang sebelumnya menggunaka metode manual dengan menulis menu. Kemudian aplikasi Pemesanan Geprek Alhamdulillah juga dapat melakukan pencatatan transaksi.<br> 
 		<ol>
 		2.1.1 Antarmuka sistem<br>
-		<center><img src="gambar/pembeli.png" width="250" height="250"></center>
+		<center><img src="gambar/user_pembeli.png" width="250" height="250"></center><br>
 		2.1.2 Antarmuka pengguna 
 			  <ol>Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash.Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam Aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.</ol>
 		2.1.3 Antarmuka perangkat keras
