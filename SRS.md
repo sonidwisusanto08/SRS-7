@@ -1,4 +1,3 @@
-
 <b>
 <div class="container" style="font-family: times new roman">
 	<div class="header" style="text-align: center">
@@ -151,10 +150,8 @@
 	<b>2.1 Perspektif produk</b> 
 	<ol>Aplikasi Pemesanan Geprek Alhamdulillah adalah aplikasi yang digunakan untuk memesan menu melalui mobile yang sebelumnya menggunaka metode manual dengan menulis menu. Kemudian aplikasi Pemesanan Geprek Alhamdulillah juga dapat melakukan pencatatan transaksi.<br> 
 		<ol>
-		2.1.1 Antarmuka sistem  
-			  <ol><div class="content" style="text-align: center">
-		 <img src="gambar/pembeli.png" width="300" height="300">
-		</div>
+		2.1.1 Antarmuka sistem  <br>
+		 <img src="pembeli.png" align="centre" width="100" height="50">
 		 <br></ol>
 		2.1.2 Antarmuka pengguna 
 			  <ol>Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash.Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam Aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.</ol>
