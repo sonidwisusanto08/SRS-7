@@ -1,28 +1,18 @@
-<b>
-<div class="container" style="font-family: times new roman">
-	<div class="header" style="text-align: center">
-		<font size="6">APLIKASI PEMESANAN GEPREK ALHAMDULILLAH <br> 
-			BERBASIS MOBILE <br> </font>
-		<font size="6">PROYEK 2 </font><br>
-	</b>
-	</div>
-	<div class="content" style="text-align: center">
-		 <img src="gambar/polindra.png" width="400" height="400">
-		 <br>
-		    <font size="4"> Disusun Oleh : <br></font>
-		    <b>
-		    <font size="5"> Kukuh Ajie Prayoga ( 1703066 ) <br></font>
-			<font size="5">Muhammad Naufal Hariz (1703080 ) <br></font>
-			<font size="5">Soni Dwi Susanto ( 1703083 ) <br></font></font>
-	</div>
-	<br>
-	<div class="footer" style="text-align: center" >
-		 <font size="6">D3 TEKNIK INFORMATIKA <br></font>
-		 <font size="6">POLITEKNIK NEGERI INDRAMAYU<br></font>
-		 <font size="6">2019 </font>
-</b>
-	</div>
-</div>
+<p align="center"><font size="5"><b>Software Requirements Specifications</b></font><br>
+"Alikasi Pemesanan Geprek Alhamdulillah Berbasis Mobil"</p>
+
+<p align="center"><img src="gambar/polindra.png" width="250" height="250"></p>
+
+<br>
+
+<p align="center">
+    <b><font size="4">Kelompok 7:</font></b><br>
+    1. Kukuh Ajie Prayoga (1703066) <br>
+    2. Muhammad Naufal Hariz (1703080)<br>
+    3. Soni Dwi Susanto (1703083)
+</p>
+<center><font size="3"><p align="center">Kelas D3TI2C</p></font></center>
+
 <br>
 <br>
 <ol>
@@ -150,9 +140,8 @@
 	<b>2.1 Perspektif produk</b> 
 	<ol>Aplikasi Pemesanan Geprek Alhamdulillah adalah aplikasi yang digunakan untuk memesan menu melalui mobile yang sebelumnya menggunaka metode manual dengan menulis menu. Kemudian aplikasi Pemesanan Geprek Alhamdulillah juga dapat melakukan pencatatan transaksi.<br> 
 		<ol>
-		2.1.1 Antarmuka sistem  <br>
-		 <img src="pembeli.png" align="centre" width="100" height="50">
-		 <br></ol>
+		2.1.1 Antarmuka sistem<br>
+		<center><img src="gambar/pembeli.png" width="250" height="250"></center>
 		2.1.2 Antarmuka pengguna 
 			  <ol>Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash.Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam Aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.</ol>
 		2.1.3 Antarmuka perangkat keras
