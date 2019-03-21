@@ -153,7 +153,7 @@
 		<ol>
 		2.1.1 Antarmuka sistem  
 			  <ol><div class="content" style="text-align: center">
-		 <img src="gambar/pembeli.png" width="200" height="200">
+		 <img src="gambar/pembeli.png" width="300" height="300">
 		</div>
 		 <br></ol>
 		2.1.2 Antarmuka pengguna 
