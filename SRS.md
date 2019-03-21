@@ -141,3 +141,23 @@
 		Detil Requirements adalah suatu analisis yang terdiri dari properti dan fungsionalitas spesifik yang diekspresikan dalam bentuk yang detail.
 	</p>
 </ul>
+
+<ol>
+<p>BAB III</p>
+<li>KEBUTUHAN LAIN YANG SPESIFIK</li>
+</ol>
+<ul>
+<li>3.1	Performa</li> 
+<li>•	Berjalan pada system operasi minimal android lollipop.</li>
+<li>•	Respon program kurang 30 detik.</li>
+<li>•	Berjalan pada browser apapun.</li>
+</ul>
+<ul>
+<li>3.2	Keamanan Aplikasi</li>
+<li>•	Validasi username dan password harus sesuai dengan yang didaftarkan sehingga tidak terjadi kesalahan login pada aplikasi Geprek Alhamdulillah.</li>
+</ul>
+ <ol>
+<p>BAB IV</p>
+<li>INFORMASI PENDUKUNG</li>
+<p>Informasi yang kami dapatkan, yaitu dari beberapa situs website, jurnal tugas akhir, dan mitra Geprek Alhamdulillah.</p>
+</ol>
